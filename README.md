@@ -7,10 +7,10 @@
 - Conclusion/Insights
 
 ### Introduction
-#### Welcome to the README file of the Analysis Of IPL Tournament.The Indian Premier League (IPL) is a professional Twenty20 cricket league in India. It was founded by the Board of Control for Cricket in India (BCCI) in 2007, and since then has become one of the most popular and lucrative cricket leagues globally.
+ Welcome to the README file of the Analysis Of IPL Tournament.The Indian Premier League (IPL) is a professional Twenty20 cricket league in India. It was founded by the Board of Control for Cricket in India (BCCI) in 2007, and since then has become one of the most popular and lucrative cricket leagues globally.
 
 ### Reason to choose this project
-#### I really enjoy watching IPL Seasons and also It is my one of the favourite sport that's why I choose this Datasets.
+ I really enjoy watching IPL Seasons and also It is my one of the favourite sport that's why I choose this Datasets.
 
 ### Pandas Methods which are used for these project
 - info(), describe(), isna() , count()
