@@ -1,4 +1,4 @@
-# Analysis Of IPL Tournament
+# Project Name - Match Metrics: EDA Dive into IPL
 ## Table of content
 - Introduction
 - Reason to choose this project
