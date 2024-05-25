@@ -22,7 +22,7 @@
 - Bar Graph
 - Pie Chart
 
-### Conclusion/Insights
+### Insights
 - The highest number of matches are played in season 2013,2012 and 2011.
 - Mumbai Indians is maximum season winning team i.e. 4 seasons out of 12.
 - Mumbai Indians is a team who won by maximum runs and Delhi Dardevils is a team who won by minimum runs.
